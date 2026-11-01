@@ -1,4 +1,4 @@
-# killitboi
+# Kill it Boi!
 Simple Program to kill tasks at WS.
 
 # Kill it Boi!
