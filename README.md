@@ -15,7 +15,7 @@ Simple Program to kill tasks at WS.
 
 ## About
 
-**Process Killer** is a lightweight Windows utility designed to make process termination simple and accessible.
+**Kill it Boi!** is a lightweight Windows utility designed to make process termination simple and accessible.
 
 Instead of navigating through Windows Task Manager, users can identify running processes and terminate them directly from the application.
 
@@ -35,7 +35,7 @@ Instead of navigating through Windows Task Manager, users can identify running p
 ## Requirements
 
 - Python 3.x
-- Windows operating system
+- Windows 10-11
 
 ## Usage
 
