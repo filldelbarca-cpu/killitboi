@@ -1,7 +1,7 @@
 # killitboi
 Simple Program to kill tasks at WS.
 
-# Process Killer
+# Kill it Boi!
 
 <p align="center">
   <img src="skull-and-crossbones-free-png.webp" width="400">
@@ -53,5 +53,5 @@ This project is developed in Python.
 ---
 
 <p align="center">
-  <sub>Process Killer · Windows utility</sub>
+  <sub>Kill it Boi!</sub>
 </p>
