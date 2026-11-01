@@ -41,9 +41,8 @@ Instead of navigating through Windows Task Manager, users can identify running p
 ## Usage
 
 1. Open the application.
-2. Browse the list of running processes.
-3. Select the process you want to terminate.
-4. Confirm the action.
+2. Pres the "Kill it!" button
+3. Click an aplication with left click to kill it, use right click to cancel the action
 
 **Note:** Terminating critical system processes may cause Windows instability, application crashes or unexpected shutdowns. Use with caution.
 
